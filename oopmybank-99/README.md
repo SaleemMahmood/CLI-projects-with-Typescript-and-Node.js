@@ -1,0 +1,1 @@
+This is a simple cli based banking system by using typescript and node js

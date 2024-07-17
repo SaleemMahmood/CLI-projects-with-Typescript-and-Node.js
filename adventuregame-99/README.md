@@ -1,0 +1,1 @@
+This is a CLI based simple adventure game by applying node.js and typescript

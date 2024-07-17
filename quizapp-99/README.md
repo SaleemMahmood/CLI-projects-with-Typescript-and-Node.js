@@ -1,0 +1,1 @@
+This is a simple CLI based quiz app by applying node.js and typescript

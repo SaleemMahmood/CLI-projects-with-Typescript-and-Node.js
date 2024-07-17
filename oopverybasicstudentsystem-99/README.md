@@ -1,0 +1,1 @@
+This is a very basic cli based student management system by using typescript, node js, inquirer and chalk

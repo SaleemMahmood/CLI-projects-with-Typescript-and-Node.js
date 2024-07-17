@@ -1,0 +1,1 @@
+This is a cli based todo app by applying node.js and typescript

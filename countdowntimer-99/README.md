@@ -1,0 +1,1 @@
+This is a cli based countdown time by applying node.js and typescript
